@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our git slide!"
 ---
 
 Your text
-this the seconed change in file mohand!
+this my awesome slide change in file mohand!
